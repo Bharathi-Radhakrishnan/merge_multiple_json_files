@@ -1,0 +1,8 @@
+{ "strikers":[
+{ "name" : "Joey Tribiani" ,"club" : "Friends", "id":111, "designation": "actor" },
+{ "name" : "Chandler Bing" , "club" : "Friends", "id":110, "designation": "transposter"},
+{ "name": "Monica Geller", "club": "Friends" ,"id":124, "designation": "cook" },
+{ "name": "Rachel Green", "club": "Friends","id":123 , "designation":"designer" },
+{ "name": "Ross Geller", "club": "Friends" ,"id":122, "designation": "dinosaur" },
+{ "name": "Phobe Buffay", "club": "Friends","id":128 , "designation":"singer" }
+] }
